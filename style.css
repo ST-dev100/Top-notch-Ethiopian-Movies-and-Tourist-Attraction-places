@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    margin: 100px auto 50px;
+    font-weight: 600;
+}
+form{
+    width: 90%;
+    max-width: 600px;
+    margin: auto;
+    height: 80px;
+    background: #434989;
+    display: flex;
+    align-items: center;
+}
+form select{
+    flex: 1;
+    height:100%;
+    border:0;
+    outline:0;
+    /* background:transparent; */
+    color:#fff;
+    font-size:18px;
+    padding:0 30px;
+    border-radius: 8px;
+}
+form button{
+    padding:0 40px;
+    height: 100%;
+    background: #ff3929;
+    color: #fff;
+    font-size: 18px;
+    border: 0;
+    outline: 0;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    cursor: pointer;
+}
+::placeholder{
+    color: #fff;
+    font-size: 18px;
+}
+#show-more-btn{
+    background: #ff3929;
+    color: #fff;
+    border: 0;
+    outline: 0;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin: 10px auto 100px;
+    cursor: pointer;
+    display: none;
+}
+#film-board{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 3px solid green;
+    align-items: stretch;
+    min-height: 100vh;
+    margin-top: 3em;
+}
+.turist{
+    background-image: url('lal.jpg');  
+}
+.add{
+    display: none;
+}
+#hello
+{
+    display: none;
+}
