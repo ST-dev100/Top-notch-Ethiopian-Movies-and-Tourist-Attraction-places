@@ -89,7 +89,7 @@ class Film{
      exit.addEventListener('click',()=>{
       document.getElementById("film-board").style.display = "flex";
       document.getElementById("search-engine").style.display="flex";
-    document.getElementById("desc").textContent = "Image Serarch";
+    document.getElementById("desc").textContent = "Ethiopian best movies and Tursit attract places";
       document.getElementById("hello").style.display="none";
   })
     }
@@ -127,7 +127,7 @@ class Film{
      exit.addEventListener('click',()=>{
       document.getElementById("film-board").style.display = "flex";
       document.getElementById("search-engine").style.display="flex";
-    document.getElementById("desc").textContent = "Image Serarch";
+    document.getElementById("desc").textContent = "Ethiopian best movies and Tursit attract places";
       document.getElementById("hello").style.display="none";
   })
     }
@@ -159,7 +159,7 @@ class Film{
      exit.addEventListener('click',()=>{
       document.getElementById("film-board").style.display = "flex";
       document.getElementById("search-engine").style.display="flex";
-    document.getElementById("desc").textContent = "Image Serarch";
+    document.getElementById("desc").textContent = "Ethiopian best movies and Tursit attract places";
       document.getElementById("hello").style.display="none";
   })
     }
@@ -192,7 +192,7 @@ class Film{
      exit.addEventListener('click',()=>{
       document.getElementById("film-board").style.display = "flex";
       document.getElementById("search-engine").style.display="flex";
-    document.getElementById("desc").textContent = "Image Serarch";
+    document.getElementById("desc").textContent = "Ethiopian best movies and Tursit attract places";
       document.getElementById("hello").style.display="none";
   })
     }
@@ -224,7 +224,7 @@ class Film{
      exit.addEventListener('click',()=>{
       document.getElementById("film-board").style.display = "flex";
       document.getElementById("search-engine").style.display="flex";
-    document.getElementById("desc").textContent = "Image Serarch";
+    document.getElementById("desc").textContent = "Ethiopian best movies and Tursit attract places";
       document.getElementById("hello").style.display="none";
   })
     }
@@ -256,7 +256,7 @@ class Film{
      exit.addEventListener('click',()=>{
       document.getElementById("film-board").style.display = "flex";
       document.getElementById("search-engine").style.display="flex";
-    document.getElementById("desc").textContent = "Image Serarch";
+    document.getElementById("desc").textContent = "Ethiopian best movies and Tursit attract places";
       document.getElementById("hello").style.display="none";
   })
     }
@@ -288,7 +288,7 @@ class Film{
      exit.addEventListener('click',()=>{
       document.getElementById("film-board").style.display = "flex";
       document.getElementById("search-engine").style.display="flex";
-    document.getElementById("desc").textContent = "Image Serarch";
+    document.getElementById("desc").textContent = "Ethiopian best movies and Tursit attract places";
       document.getElementById("hello").style.display="none";
   })
     }
@@ -341,7 +341,7 @@ document.getElementById("film-board").addEventListener('click',(e)=>{
      exit.addEventListener('click',()=>{
       document.getElementById("film-board").style.display = "flex";
       document.getElementById("search-engine").style.display="flex";
-    document.getElementById("desc").textContent = "Image Serarch";
+    document.getElementById("desc").textContent = "Ethiopian best movies and Tursit attract places";
       document.getElementById("hello").style.display="none";
   })
     }
@@ -377,7 +377,7 @@ document.getElementById("film-board").addEventListener('click',(e)=>{
      exit.addEventListener('click',()=>{
       document.getElementById("film-board").style.display = "flex";
       document.getElementById("search-engine").style.display="flex";
-    document.getElementById("desc").textContent = "Image Serarch";
+    document.getElementById("desc").textContent = "Ethiopian best movies and Tursit attract places";
       document.getElementById("hello").style.display="none";
   })
     }
@@ -415,7 +415,7 @@ document.getElementById("film-board").addEventListener('click',(e)=>{
      exit.addEventListener('click',()=>{
       document.getElementById("film-board").style.display = "flex";
       document.getElementById("search-engine").style.display="flex";
-    document.getElementById("desc").textContent = "Image Serarch";
+    document.getElementById("desc").textContent = "Ethiopian best movies and Tursit attract places";
       document.getElementById("hello").style.display="none";
   })
     }
@@ -454,7 +454,7 @@ document.getElementById("film-board").addEventListener('click',(e)=>{
      exit.addEventListener('click',()=>{
       document.getElementById("film-board").style.display = "flex";
       document.getElementById("search-engine").style.display="flex";
-    document.getElementById("desc").textContent = "Image Serarch";
+    document.getElementById("desc").textContent = "Ethiopian best movies and Tursit attract places";
       document.getElementById("hello").style.display="none";
   })
     }
@@ -486,7 +486,7 @@ document.getElementById("film-board").addEventListener('click',(e)=>{
      exit.addEventListener('click',()=>{
       document.getElementById("film-board").style.display = "flex";
       document.getElementById("search-engine").style.display="flex";
-    document.getElementById("desc").textContent = "Image Serarch";
+    document.getElementById("desc").textContent = "Ethiopian best movies and Tursit attract places";
       document.getElementById("hello").style.display="none";
   })
     }

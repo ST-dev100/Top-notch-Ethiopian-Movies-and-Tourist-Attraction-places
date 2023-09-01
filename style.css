@@ -4,6 +4,7 @@
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     box-sizing: border-box;
 }
+
 h1{
     text-align: center;
     margin: 100px auto 50px;
@@ -42,7 +43,7 @@ form button{
     cursor: pointer;
 }
 ::placeholder{
-    color: #fff;
+    color: blue;
     font-size: 18px;
 }
 #show-more-btn{
@@ -60,7 +61,7 @@ form button{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    border: 3px solid green;
+    /* border: 3px solid green; */
     align-items: stretch;
     min-height: 100vh;
     margin-top: 3em;
